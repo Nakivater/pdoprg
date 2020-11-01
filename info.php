@@ -33,6 +33,8 @@ echo "<tr><td>{$next['name']}</td> <td>{$next['age']}</td> <td>{$next['money']}<
 
 echo"</table>";
 }
+echo "<br>";
 ?>
+
 </body>
 </html>
